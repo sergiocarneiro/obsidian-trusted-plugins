@@ -5,3 +5,5 @@ Every plugin listed here have had its code thoroughly reviewed by me, considerin
 * **Safety** — does not access sensitive information, nor contains suspicious code that may enable future exploits
 * **Performance** — does its tasks efficiently, not requiring more resources than it should, nor disrupting the user experience
 * **Purpose** — strictly adheres to the expected functionality, as described in its description
+
+### ✅ [obsidian-reading-time](https://github.com/avr/obsidian-reading-time) 1.1.1
